@@ -2,6 +2,56 @@ body {
   background-image: url(../img/nza_background.jpg);
 }
 
-.Three_Stooges {
+.stooges {
   background-color: white;
-} 
+  padding: 5px 60px;
+  margin-bottom: 100px;
+}
+
+.news p {
+  font-size: 10px;
+}
+
+.news hr {
+  border: 1px solid white;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.news  h5 {
+  font-size: 15px;
+}
+
+.news {
+  background-color: rgba(179, 36, 0, 1);
+  color: white;
+  padding: 20px 10px;
+}
+
+#top_footer {
+  margin: auto;
+}
+
+#top_footer ul {
+  list-style: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid #000;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#top_footer ul li a {
+  color: black;
+  font-size: 12px;
+}
+
+#top_footer ul li {
+  color: black;
+  padding: 5px 20px;
+  display: inline;
+}
+
+#top_footer ul span {
+  padding: 5px 20px;
+}
